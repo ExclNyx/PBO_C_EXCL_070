@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class coba {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -13,16 +13,16 @@ public class coba {
 
         if (pilihan == 1) {
             // Login Admin
-            System.out.print("Masukkan Username kamu: ");
+            System.out.print("Masukkan Username: ");
             String username = scanner.nextLine();
-            System.out.print("Masukkan Password kamu: ");
+            System.out.print("Masukkan Password: ");
             String password = scanner.nextLine();
 
-            String nim = "070"; // Sesuai dengan 3 digit terakhir NIM Anda
-            String validUsername = "Admin" + nim;
-            String validPassword = "password" + nim;
+            String terakhir = "070"; // Sesuai dengan 3 digit terakhir NIM Anda
+            String user = "Admin" + terakhir;
+            String pass = "password" + terakhir;
 
-            if (username.equals(validUsername) && password.equals(validPassword)) {
+            if (username.equals(user) && password.equals(pass)) {
                 System.out.println("Login Admin berhasil!");
             } else {
                 System.out.println("Login gagal! Username atau password salah.");
@@ -34,10 +34,10 @@ public class coba {
             System.out.print("Masukkan NIM: ");
             String nim = scanner.nextLine();
 
-            String validNama = "Excl Radit Pratama"; // Ganti dengan nama Anda
-            String validNim = "202410370110070"; // Ganti dengan NIM Anda
+            String Nama = "Excl Radit Pratama"; // Ganti dengan nama Anda
+            String Nim = "202410370110070"; // Ganti dengan NIM Anda
 
-            if (nama.equals(validNama) && nim.equals(validNim)) {
+            if (nama.equals(Nama) && nim.equals(Nim)) {
                 System.out.println("Login Mahasiswa berhasil!");
                 System.out.println("Nama: " + nama);
                 System.out.println("NIM: " + nim);
