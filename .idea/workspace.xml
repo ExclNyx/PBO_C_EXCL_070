@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="77cfc584-12e7-45eb-b827-49ab18bf72e4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/Module 1/codelab module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1/codelab module1" afterDir="false" />
     </list>
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="084bd0be-9fc2-4b0a-834f-f0e3df9436cb" name="Changes" comment="" />
+>>>>>>> 95b32c47b902c6a21624a9ce296f94f5c72587c5
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,19 +33,32 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
+<<<<<<< HEAD
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2toMiqakNMJPca2MClA4HtWAKOC" />
+=======
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2trPHwTL2pYnEPAvCDFz2CkfFpW" />
+>>>>>>> 95b32c47b902c6a21624a9ce296f94f5c72587c5
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
+=======
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.LoginSystem.executor": "Run",
+    "Application.Main.executor": "Run",
+>>>>>>> 95b32c47b902c6a21624a9ce296f94f5c72587c5
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/LENOVO/IdeaProjects/Module 1"
   }
 }]]></component>
@@ -53,15 +74,38 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
+=======
+    "last_opened_file_path": "C:/Users/LENOVO/IdeaProjects/Module 1/tugas",
+    "onboarding.tips.debug.path": "C:/Users/LENOVO/IdeaProjects/Module 1/tugas/src/Main.java"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\Module 1" />
+    </key>
+>>>>>>> 95b32c47b902c6a21624a9ce296f94f5c72587c5
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="77cfc584-12e7-45eb-b827-49ab18bf72e4" name="Changes" comment="" />
       <created>1741014105451</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741014105451</updated>
+=======
+      <changelist id="084bd0be-9fc2-4b0a-834f-f0e3df9436cb" name="Changes" comment="" />
+      <created>1741107136257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741107136257</updated>
+>>>>>>> 95b32c47b902c6a21624a9ce296f94f5c72587c5
     </task>
     <servers />
   </component>
